@@ -6,7 +6,7 @@
 <a href="https://medium.com/@raydeepa">
   <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/medium.svg" />
 </a>
-<a href="mailto:raydeepa@gmail.com?subject=Insert Subject Here">
+<a href="mailto:raydeepa@gmail.com">
   <img align="left" alt="Deepa's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
