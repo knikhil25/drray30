@@ -10,6 +10,8 @@
   <img align="left" alt="Deepa's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
+[![Deepa Rayy's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=raydeepa&type=horizontal)](https://medium.com/@raydeepa)
+
 <!--
 **drray30/drray30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,3 +26,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
