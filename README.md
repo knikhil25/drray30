@@ -12,9 +12,8 @@
 <br />
 <br />
 
-- 📝 Check my recent posts on Medium! 
-    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@raydeepa/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@raydeepa/0" alt="Recent Article 0"></a>
-    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@raydeepa/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@raydeepa/1" alt="Recent Article 1"></a>
+📝 Check my recent posts on Medium! 
+    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@raydeepa/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@raydeepa/0" alt="Customer Product Recommendation"></a>
 
 <!--
 **drray30/drray30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
