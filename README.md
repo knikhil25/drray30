@@ -9,6 +9,8 @@
 <a href="mailto:raydeepa@gmail.com">
   <img align="left" alt="Deepa's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+<br />
+<br />
 
 [![Deepa Rayy's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=raydeepa&type=horizontal)](https://medium.com/@raydeepa)
 
