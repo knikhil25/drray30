@@ -10,6 +10,8 @@
   <img align="left" alt="Deepa's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
+<br/>
+
 Hi there, I'm **Deepa Ray**, a **Data Scientist** and a **Ph.D. holder** 🚀 from India.  Currently, I'm a Senior Data Scientist at HSBC, Learner, and Dabbler in all things Data Science and AI. 
 
 **About me:**
