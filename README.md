@@ -12,7 +12,7 @@
 <br />
 <br />
 
-📝 Check my recent posts on Medium! 
+📝 Check out my post on Medium! 
     <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@raydeepa/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@raydeepa/0" alt="Customer Product Recommendation"></a>
 
 <!--
