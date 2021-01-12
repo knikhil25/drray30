@@ -12,6 +12,12 @@
 <br />
 <br />
 
+Hi there, I'm **Deepa Ray**, a **Data Scientist** and a **Ph.D. holder** 🚀 from India.  Currently, I'm a Senior Data Scientist at HSBC, Learner, and Dabbler in all things Data Science and AI. 
+
+<br />
+<br />
+
+
 📝 Check out my post on Medium! 
     <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@raydeepa/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@raydeepa/0" alt="Customer Product Recommendation"></a>
 
