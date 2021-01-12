@@ -9,8 +9,6 @@
 <a href="mailto:raydeepa@gmail.com">
   <img align="left" alt="Deepa's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<br />
-<br />
 
 Hi there, I'm **Deepa Ray**, a **Data Scientist** and a **Ph.D. holder** 🚀 from India.  Currently, I'm a Senior Data Scientist at HSBC, Learner, and Dabbler in all things Data Science and AI. 
 
@@ -39,6 +37,8 @@ Hi there, I'm **Deepa Ray**, a **Data Scientist** and a **Ph.D. holder** 🚀 fr
 
 📝 Check out my post on Medium! 
     <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@raydeepa/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@raydeepa/0" alt="Customer Product Recommendation"></a>
+    
+⭐️ From [Deepa Ray](https://github.com/drray30)
 
 <!--
 **drray30/drray30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
