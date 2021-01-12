@@ -12,7 +12,9 @@
 <br />
 <br />
 
-[![Deepa Rayy's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=raydeepa&type=horizontal)](https://medium.com/@raydeepa)
+- 📝 Check my recent posts on Medium! 
+    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@raydeepa/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@raydeepa/0" alt="Recent Article 0"></a>
+    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@raydeepa/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@raydeepa/1" alt="Recent Article 1"></a>
 
 <!--
 **drray30/drray30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
