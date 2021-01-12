@@ -10,7 +10,6 @@
   <img align="left" alt="Deepa's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-
 <!--
 **drray30/drray30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
