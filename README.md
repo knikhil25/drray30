@@ -12,9 +12,6 @@
 
 Hi there, I'm **Deepa Ray**, a **Data Scientist** and a **Ph.D. holder** 🚀 from India.  Currently, I'm a Senior Data Scientist at HSBC, Learner, and Dabbler in all things Data Science and AI. 
 
-<br />
-<br />
-
 **About me:**
 
 - 👩🏽‍💻 I’m currently a Senior Data Scientist with [HSBC](https://www.hsbc.com/) working on leveraging advanced data analytics to deliver valuable insights and business value;
