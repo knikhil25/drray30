@@ -22,6 +22,8 @@ Hi there, I'm **Deepa Ray**, a **Data Scientist** and a **Ph.D. holder** 🚀 fr
 - 🤔 My interests are with Natural Language Processing, Computer vision, Deep Learning, etc..;
 - 📫 Please email via raydeepa@gmail.com to reach me.
 - 📝 See my [Resume](https://drive.google.com/file/d/1pUey-IOHbb0ny51dWJ8sOSQQXyjWsqg8/view) to get more info.
+- 📝 See my [Website](http://drray30.github.io/) to find out more!
+
 
 **Languages and Tools:**  
 
